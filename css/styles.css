@@ -27,3 +27,14 @@
         main {
             
         }
+
+        body .div-1{
+            background-color: dodgerblue;
+            padding: 20px;
+            color: white;
+        }
+
+
+        body div .title-3{
+            color: white;
+        }
