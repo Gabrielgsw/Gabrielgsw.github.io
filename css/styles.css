@@ -53,3 +53,10 @@
             text-align: justify;
             
         }
+
+        .div-cadastro h1{
+            color: dodgerblue;
+            text-align: center;
+            padding: 50px;
+            font-size: xx-large;
+        }
