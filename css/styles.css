@@ -60,3 +60,14 @@
             padding: 50px;
             font-size: xx-large;
         }
+
+        @media screen and(min-width: 992px) {
+            .capa{
+                width: 40%;
+            }
+
+            main.capa,
+            article.section-video{
+                display: inline-block;
+            }
+        }
