@@ -1,6 +1,8 @@
 
         .title{
             color:dodgerblue ;
+            padding: 0 20px;
+            font-size: 1.75em;
         }
 
         .menu ul li a{
@@ -37,4 +39,17 @@
 
         body div .title-3{
             color: white;
+        }
+
+        h1.title {
+            margin: 40px auto 20px;
+        }
+
+        h2.article-title{
+            font-size: 1.2em;
+        }
+
+        .text-justify{
+            text-align: justify;
+            
         }
