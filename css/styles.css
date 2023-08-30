@@ -25,6 +25,7 @@
 
         .title-2{
             color: dodgerblue;
+            padding: 0 20px;
         }
         main {
             
@@ -43,15 +44,17 @@
 
         h1.title {
             margin: 40px auto 20px;
+            padding: 0 20px;
         }
 
         h2.article-title{
             font-size: 1.2em;
+            padding: 0 20px;
         }
 
         .text-justify{
             text-align: justify;
-            
+            padding: 0 20px;
         }
 
         .div-cadastro h1{
@@ -69,5 +72,12 @@
             main.capa,
             article.section-video{
                 display: inline-block;
+                padding: 0 20px;
             }
+
+            
+        }
+
+        .padding-padrao{
+            padding: 0 20px;
         }
